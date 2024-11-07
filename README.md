@@ -1,0 +1,3 @@
+# Asteroid Tracking Project - Summer Science Program 2022 at CU Boulder
+
+This code was part of the asteroid tracking project developed during the Summer Science Program in 2022 at CU Boulder. The goal of this project was to compute orbital elements of asteroids using astrometric observations and position vectors relative to the Earth-Sun system. The computations employ classical orbital mechanics, vector algebra, and numerical methods to accurately determine the orbital parameters.
